@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"AWS Lambda",
 		"DocBlockr",
 		"DocBlockr_Python",
 		"ESLint-Formatter",
