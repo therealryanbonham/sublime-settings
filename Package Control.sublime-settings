@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AWS Lambda",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"ESLint-Formatter",
+		"GitGutter",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"requirementstxt",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeREPL",
+		"Table Editor",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
+	]
+}
