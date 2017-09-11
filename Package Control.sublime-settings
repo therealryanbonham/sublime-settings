@@ -6,10 +6,12 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"DashDoc",
 		"DocBlockr",
 		"DocBlockr_Python",
 		"ESLint-Formatter",
 		"GitGutter",
+		"GoSublime",
 		"MarkdownEditing",
 		"Monokai Extended",
 		"Package Control",
